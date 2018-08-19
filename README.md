@@ -5,7 +5,7 @@ Three machine learning classifiers are used to complete this gender classificati
 
 The information below was retrieved from [scikit-learn.org](http://scikit-learn.org/)
 
-###Decision Tree Classifier
+### Decision Tree Classifier
 
 Decision tree classifier was the default classifier Siraj used in the [video](https://www.youtube.com/watch?v=T5pRlIbr6gg&list=PL2-dafEMk2A6QKz1mrk1uIGfHkC1zZ6UU). Decision trees are a non-parametric supervised learning method which predict the value of target variable by learning the decision rules from features.
 
